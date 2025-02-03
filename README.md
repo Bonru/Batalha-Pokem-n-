@@ -2,6 +2,8 @@
 
 Simulador Batalha POKEMON — Bruno Falqueto Busato
 
+Este projeto foi realizado como trabalho de estudos em Python para o módulo 2 do curso de programação "Introcomp" ofertado pela Universidade Federal do Espírito Santo em 2021
+
 Nesse simulador contamos com a presença de 8 pokemons diferentes com mais de 20 golpes diferentes tendo alguns deles animações únicas.
 
 Para batalhar o jogo consta com a presença de dois pokemons que devem ser selecionados no menu principal, nele é possivel transitar entre os pokemons usando as setas
